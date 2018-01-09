@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=type\ min\ max
+comment1.target=Weapon(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=int\ getMinDmg()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

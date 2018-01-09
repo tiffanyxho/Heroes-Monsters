@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=
+comment1.target=Monster()
+comment2.params=decHealth
+comment2.target=void\ setHealth(int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=int\ getSpeed()
+comment6.params=
+comment6.target=int\ getHealth()
+comment7.params=
+comment7.target=int\ getAttack()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
